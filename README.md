@@ -1,4 +1,4 @@
-# 结构分系统 | STR  
+# 结构分系统 | Structure  
 
 本分系统仓库公开了与「风信子卫星」结构相关的文件，旨在支持团队成员协作、技术交流，并为公众构建提供参考资料。  
 
@@ -7,8 +7,8 @@
 主要改进方向将包括可展开式太阳能电池板及其他结构优化，以提升卫星的功率供应能力及整体性能。  
 
 ## 目录  
-- [BIRDS5实体](https://github.com/HyacinthSat/STR/tree/main/BIRDS5%E5%AE%9E%E4%BD%93) ：对BIRDS5结构的3D复现
-- [+X Antenna Board](https://github.com/HyacinthSat/STR/tree/main/%2BX%20Antenna%20Board) ：天线面板（+X）的3D模型
+- [BIRDS5实体](https://github.com/HyacinthSat/Structure/tree/main/BIRDS5%E5%AE%9E%E4%BD%93) ：对BIRDS5结构的3D复现
+- [+X Antenna Board](https://github.com/HyacinthSat/Structure/tree/main/%2BX%20Antenna%20Board) ：天线面板（+X）的3D模型
 
 ## 许可证  
 
@@ -22,4 +22,4 @@
 
 仓库贡献者无需对使用本内容造成的任何损失或问题负责。
 
-更多信息请参见：[LICENSE](https://github.com/HyacinthSat/STR/blob/main/LICENSE)
+更多信息请参见：[LICENSE](https://github.com/HyacinthSat/Structure/blob/main/LICENSE)
